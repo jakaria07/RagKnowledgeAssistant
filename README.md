@@ -1,9 +1,9 @@
 # RagKnowledgeAssistant
 
-[![.NET 8.0](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
+[![.NET 10.0](https://img.shields.io/badge/.NET-10.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/10.0)
 [![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-orange.svg)](https://ollama.com/)
 
-A high-performance, privacy-centric Retrieval-Augmented Generation (RAG) system built with **ASP.NET Core 8** and **Local LLMs**. This project demonstrates a production-grade transition from basic lexical search to advanced semantic retrieval using local vector embeddings and grounded response generation.
+A high-performance, privacy-centric Retrieval-Augmented Generation (RAG) system built with **ASP.NET Core 10** and **Local LLMs**. This project demonstrates a production-grade transition from basic lexical search to advanced semantic retrieval using local vector embeddings and grounded response generation.
 
 ---
 
@@ -43,7 +43,7 @@ The system is designed with a clean, decoupled architecture following SOLID prin
 Follow these steps to set up the environment and run the project locally.
 
 ### 1. Prerequisites
-- **.NET 8.0 SDK**
+- **.NET 10.0 SDK**
 - **Ollama** (Download from [ollama.com](https://ollama.com/))
 - At least **8GB RAM** recommended for `phi3:mini`.
 
