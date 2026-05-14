@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Visitor Approval Policy",
+    "content": "All visitors must be approved by an admin before entry."
+  },
+  {
+    "id": 2,
+    "title": "Working Hours",
+    "content": "Office operates from 9 AM to 6 PM."
+  }
+]

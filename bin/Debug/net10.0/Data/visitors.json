@@ -1,0 +1,27 @@
+[
+  {
+    "id": 101,
+    "title": "Visitor: John Doe - 2026-05-01",
+    "content": "John Doe visited at 10:30 AM to meet Finance (host: Alice). Purpose: contract discussion. Approved by admin."
+  },
+  {
+    "id": 102,
+    "title": "Visitor: Maria Khan - 2026-05-02",
+    "content": "Maria Khan visited at 02:00 PM to meet HR (host: Rahim). Purpose: interview. Approved by admin."
+  },
+  {
+    "id": 103,
+    "title": "Visitor: Tanvir Ahmed - 2026-05-02",
+    "content": "Tanvir Ahmed attempted entry at 04:15 PM. Purpose: delivery. Not approved. Entry denied."
+  },
+  {
+    "id": 104,
+    "title": "Visitor: Sarah Lee - 2026-05-03",
+    "content": "Sarah Lee visited at 11:00 AM to meet IT (host: Nayeem). Purpose: vendor meeting. Approved by admin."
+  },
+  {
+    "id": 105,
+    "title": "Visitor: Mizanur Rahman - 2026-05-04",
+    "content": "Mizanur Rahman visited at 09:45 AM to meet Operations (host: Karim). Purpose: maintenance. Approved by admin."
+  }
+]
